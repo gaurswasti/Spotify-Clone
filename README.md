@@ -2,11 +2,11 @@
 
 ## Description:
 
-A web-based application that allows users to play various songs according to their liking. Includes play, pause and seek functionality within a song. Also allows for the user to switch between songs.
+A web-based application that allows users to play various songs according to their liking. Includes play, pause and seek functionality within a song. Also allows for the user to switch between songs via the next/previous play feature or by clicking the song in the list.
 
 ## Tech Stack:
 
-This project uses HTML, CSS and JavaScript
+This project uses HTML, CSS and JavaScript.
 
 ## Running Locally:
 
